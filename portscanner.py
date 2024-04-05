@@ -41,7 +41,7 @@ def prepare_args():
 	parser.add_argument("-t","--threads",dest="threads",metavar="",type=int,help="threads to use default thread are use 1000 ",default=1000)
 	parser.add_argument("-V","--verbose",dest="verbose",action="store_true",help="verbose output")
 	parser.add_argument("-v","--version",action="version",version="%(prog)s 1.0",help="display version")
-	parser.add_argument("-o","--output",dest="output_file",help="output file to satore the result")
+	parser.add_argument("-o","--output",dest="output_file",metavar="",help="output file to store the result")
 	args = parser.parse_args()
 	return args 	
 
