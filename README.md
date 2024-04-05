@@ -8,7 +8,10 @@ Fast python based port scanner
  
 ## Install
 ```bash
-git clone https://github.com/0xMrR0b0t/TPScanner.git
+git clone https://github.com/satyammavi/port_scanner.git
 cd port_scaner
 python3 portscanner.py
 ```
+### Develop by
+
+Developer / Author: [satyam](https://www.instagram.com/satyam.mavi/)
