@@ -5,3 +5,10 @@ Fast python based port scanner
 ## portScaner
  
  This tools is for fast open port scaner.
+ 
+## Install
+```bash
+git clone https://github.com/0xMrR0b0t/TPScanner.git
+cd port_scaner
+python3 portscanner.py
+```
