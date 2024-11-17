@@ -8,7 +8,7 @@ Fast python based port scanner
  
 ## Key  Features:
 
-- You can specify a starting port and an ending port using ```bash -s ```and ```bash -e ```.
+- You can specify a starting port and an ending port using ``` -s ```and ``` -e ```.
 - You can save the output.
 - It is very helpful in CTFs for quickly finding open ports.
  
