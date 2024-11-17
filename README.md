@@ -12,13 +12,6 @@ Fast python based port scanner
 - You can save the output.
 - It is very helpful in CTFs for quickly finding open ports.
  
-## Install
-```bash
-git clone https://github.com/satyammavi/port_scanner.git
-cd port_scaner
-pip3 install -r requirement.txt
-python3 portscanner.py
-```
 
 # Advance_Scanner
 This is another scanner, an advanced version of the portscanner.py file. This Advance_Scanner gives a service version are runing on ports.
@@ -27,6 +20,14 @@ This is another scanner, an advanced version of the portscanner.py file. This Ad
 - You can use `` --os `` to scan a OS detail.
 - You can also scan a Vulnerability ``` --vuln ``` .
 - And you can do aggressive scan on targets.
+
+## Install
+```bash
+git clone https://github.com/satyammavi/port_scanner.git
+cd port_scaner
+pip3 install -r requirement.txt
+python3 portscanner.py
+```
   
 ### Develop by
 
