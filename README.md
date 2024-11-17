@@ -19,6 +19,15 @@ cd port_scaner
 pip3 install -r requirement.txt
 python3 portscanner.py
 ```
+
+# Advance_Scanner
+This is another scanner, an advanced version of the portscanner.py file. This Advance_Scanner gives a service version are runing on ports.
+
+## Key Features:
+- You can use `` --os `` to scan a OS detail.
+- You can also scan a Vulnerability ``` --vuln ``` .
+- And you can do aggressive scan on targets.
+  
 ### Develop by
 
 Developer / Author: [satyam](https://www.instagram.com/satyam.mavi/)
