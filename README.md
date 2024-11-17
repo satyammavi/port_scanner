@@ -2,7 +2,7 @@
 Fast python based port scanner
 * python3 portscanner.py 127.0.0.1  -s 1 -e 10000 -V 127.0.0.1
 
-![Vuls-Abstract](Photo/Satyam.png)
+![Vuls-Abstract](photo/Satyam.png)
 ## portScaner
  
  
